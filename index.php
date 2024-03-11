@@ -35,6 +35,6 @@ if (strlen($titleConsole) > $maxTitleLength) {
 <title><?php echo $titleFull; ?></title>
 </head>
 <body>
-    <h1>Test Meta Title</h1>
+    <h1>Test Meta Title in Github</h1>
 </body>
 </html>
